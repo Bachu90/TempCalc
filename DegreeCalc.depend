@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508438662 source:c:\users\grzegorz\desktop\projects\program\przelicznik temperatur\calc.cpp
+	"calc.h"
+
+1508438504 c:\users\grzegorz\desktop\projects\program\przelicznik temperatur\calc.h
+
+1508438557 source:c:\users\grzegorz\desktop\projects\program\przelicznik temperatur\main.cpp
+	<iostream>
+	<conio.h>
+	"calc.h"
+
